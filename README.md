@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MertPancar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in games.
+- 🌱 I’m currently learning web programing.
+- 💞️ I’m looking to collaborate no one.
+- 📫 How to reach me? In no way sorry :(
 
 ```diff
 - My lesson notes
@@ -12,6 +12,7 @@ Hosting: Barınmak
 HTML: Hyper text markup language
 Http: Hyper text transfer protokolü
 IP: Internet protokolü = Aktarım katmanı
+
 <!---
 MertPancar/MertPancar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
