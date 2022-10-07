@@ -12,7 +12,8 @@ Hosting: Barınmak
 HTML: Hyper text markup language
 Http: Hyper text transfer protokolü
 IP: Internet protokolü = Aktarım katmanı
-
+CSS: Cascading Style Sheets
+HTML DOM: Document Object Module
 <!---
 MertPancar/MertPancar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
