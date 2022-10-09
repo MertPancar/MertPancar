@@ -1,9 +1,9 @@
-<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tenor.gif" width="498" height="278" /></p>
 - 👋 Hi, I’m @MertPancar
 - 👀 I’m interested in games.
 - 🌱 I’m currently learning web programing.
 - 💞️ I’m looking to collaborate no one.
 - 📫 How to reach me? In no way sorry :(
+
 
 
 
