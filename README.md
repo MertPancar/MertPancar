@@ -1,3 +1,4 @@
+<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tenor.gif" width="498" height="278" /></p>
 - 👋 Hi, I’m @MertPancar
 - 👀 I’m interested in games.
 - 🌱 I’m currently learning web programing.
@@ -17,7 +18,7 @@ CSS: Cascading Style Sheets
 HTML DOM: Document Object Module
 RGB= 0-255 renk aralığında anlamı red green blue 2n= 256 byte 1 byte=8 bittir.
 0 beyazdan 255 siyah
-![MertPancar's github stats](https://github-readme-stats.vercel.app/api?username=MertPancar) <p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tenor.gif" width="498" height="278" /></p>
+![MertPancar's github stats](https://github-readme-stats.vercel.app/api?username=MertPancar) 
 
 
 <!---
