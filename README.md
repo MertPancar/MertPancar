@@ -20,6 +20,9 @@ WAN: wide area network
 Türkiye ilk 12 Nisan 1993 tarihinde internete bağlandı.
 www= world wide web
 Uniform Resource Locator: URL
+FTP: File transfer protocol
+Internet 1969 yılında Amerikalılar tarafından bulunmuştur.(Arpanet)
+
 
 
 
