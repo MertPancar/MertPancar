@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web programing.
 - 💞️ I’m looking to collaborate no one.
 - 📫 How to reach me? In no way sorry :(
-
+<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tatsumigif.gif" width="498" height="298" /></p>
 My lesson notes
 MX: Mail exchance
 SMTP: Basit mail transfer protokolü
@@ -16,7 +16,7 @@ HTML DOM: Document Object Module
 RGB= 0-255 renk aralığında anlamı red green blue 2n= 256 byte 1 byte=8 bittir.
 0 beyazdan 255 siyah
 
-<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tatsumigif.gif" width="498" height="298" /></p>
+
 
 
  
