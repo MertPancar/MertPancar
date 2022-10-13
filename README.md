@@ -15,6 +15,10 @@ CSS: Cascading Style Sheets
 HTML DOM: Document Object Module
 RGB= 0-255 renk aralığında anlamı red green blue 2n= 256 byte 1 byte=8 bittir.
 0 beyazdan 255 siyah
+Internet: international network
+WAN: wide area network
+Türkiye ilk 12 Nisan 1993 tarihinde internete bağlandı.
+www= world wide web
 
 
 
