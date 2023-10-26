@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![MertPancar's github stats](https://github-readme-stats.vercel.app/api?username=MertPancar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertPancar)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertPancar&size_weight=0.5&count_weight=0.5)
  
 
 
