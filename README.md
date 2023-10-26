@@ -41,9 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![MertPancar's github stats](https://github-readme-stats.vercel.app/api?username=MertPancar)
- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/MertPancar/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertPancar)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
