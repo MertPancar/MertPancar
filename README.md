@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning web programing.
 - 💞️ I’m looking to collaborate no one.
 - 📫 How to reach me? In no way sorry :(
-<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tatsumigif.gif" width="498" height="298" /></p>
 <p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/deltarune-kris.gif" width="498" height="298" /></p>
+<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tatsumigif.gif" width="498" height="298" /></p>
+
 
 My lesson notes
 MX: Mail exchance
