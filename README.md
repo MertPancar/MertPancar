@@ -5,7 +5,7 @@
 - 📫 How to reach me? In no way sorry :(
 <p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/deltarune-kris.gif" width="498" height="298" /></p>
 <p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/tatsumigif.gif" width="498" height="298" /></p>
-<p><img align="right" src="https://github.com/MertPancar/MertPancar/blob/main/omori-omori-hug.gif" width="498" height="298" /></p>
+
 
 
 
