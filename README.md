@@ -11,4 +11,4 @@
 
 
 ![MertPancar's github stats](https://github-readme-stats.vercel.app/api?username=MertPancar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertPancar&layout=compact)](https://github.com/MertPancar/github-readme-stats)
+
